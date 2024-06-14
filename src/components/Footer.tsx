@@ -34,9 +34,9 @@ export default function Footer() {
                         <div className="flex flex-col justify-center items-center">
                             <p className="font-somatic text-lg text-center tracking-wider">Contact me at:</p>
 
-                            <Link href="mailto:mraflymaulana@gmail.com" passHref={true}>
+                            <Link href="mailto:raulmahya11@gmail.com" passHref={true}>
                                 <button className="btn bg-theme-green-dark text-white mt-4">
-                                    <span className="bg-theme-green-light !text-xs sm:!text-lg">mraflymaulana@gmail.com</span>
+                                    <span className="bg-theme-green-light !text-xs sm:!text-lg">raulmahya11@gmail.com</span>
                                 </button>
                             </Link>
                         </div>
@@ -85,7 +85,7 @@ export default function Footer() {
                         <p className="font-bold">
                             Copyright © 2021 - {new Date().getFullYear()}{" "}
                             <a href="https://raflymaulana.me" rel={"noreferrer"}>
-                                Rafly Maulana
+                                Raul Mahya
                             </a>
                             .
                         </p>

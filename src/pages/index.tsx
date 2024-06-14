@@ -253,10 +253,10 @@ export default function Home() {
                             <span className="animate-wave inline-block transform origin-bottom-right">👋</span> Hi! Welcome, I'm
                         </h3>
                         <h1 className="font-baloo text-6xl md:text-8xl" data-aos="bounce">
-                            Rafly Maulana
+                            Raul Mahya
                         </h1>
                         <p className="font-comfortaa text-lg" data-aos="fadeIn">
-                            A <b>fullstack developer</b>, <b>designer</b>, and <b>producer</b>, from <span className="text-red-600">Indonesia</span>.
+                            A <b>fullstack developer</b>, <b>Backend Developer</b>, from <span className="text-red-600">Indonesia</span>.
                         </p>
                         <Link href="#about" passHref={true}>
                             <button className="btn bg-theme-green-dark text-white mt-8" data-aos="fadeIn">
@@ -299,14 +299,14 @@ export default function Home() {
                         <h1 className="font-baloo text-6xl" data-aos="fadeIn" data-aos-anchor-placement="center-bottom">
                             I Learn Through Experiences
                         </h1>
-                        <p className="font-comfortaa text-base font-regular leading-7" data-aos="fadeIn" data-aos-anchor-placement="center-bottom">
-                            I’m Rafly, from Indonesia. I’ve spent my time to take any opportunity as well as developing my experience and skills to things like Music Producing, Graphic Designing,
-                            Programming, and many others.
-                            <br />
-                            <br />
-                            But one thing I always stick with everything is, <b>I always do every works as my passion</b>, and that's what makes me happy also giving myself a chance to deliver best
-                            works that i can do.
-                        </p>
+                        <p className="font-comfortaa leading-7 regular-font text base" data-aos="fadeIn" data-aos-anchor-placement="center-bottom">
+ I'm Raul Mahya, from Indonesia. I have spent my time taking every opportunity and developing my experience and skills in things like Data Analysis, Database Design, Programming, and many others.
+ <br />
+ <br />
+ However, one thing that I always stick to in everything is, <b>I always do every job according to my passion</b>, and that is what makes me happy and also gives myself the opportunity to give my best.
+ work I can do. I have experience as a full stack intern for 6 months, freelance for 6 months, and 1 year as a backend.
+ </p>
+
                         <a href="http://linkedin.com/in/raflymln" target={"_blank"} rel="noreferrer" data-aos="fadeIn" data-aos-anchor-placement="center-bottom">
                             <button className="btn bg-theme-green-dark text-white mt-4" data-aos="fadeIn" data-aos-anchor-placement="center-bottom">
                                 <span className="bg-theme-green-light">Great, Now Tell Me More!</span>
