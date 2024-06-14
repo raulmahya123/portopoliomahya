@@ -300,13 +300,13 @@ export default function Home() {
                             I Learn Through Experiences
                         </h1>
                         <p className="font-comfortaa leading-7 regular-font text base" data-aos="fadeIn" data-aos-anchor-placement="center-bottom">
- I'm Raul Mahya, from Indonesia. I have spent my time taking every opportunity and developing my experience and skills in things like Data Analysis, Database Design, Programming, and many others.
- <br />
- <br />
- However, one thing that I always stick to in everything is, <b>I always do every job according to my passion</b>, and that is what makes me happy and also gives myself the opportunity to give my best.
- work I can do. I have experience as a full stack intern for 6 months, freelance for 6 months, and 1 year as a backend.
- </p>
-
+                            I'm Raul Mahya, from Indonesia. I have spent my time taking every opportunity and developing my experience and skills in things like Data Analysis,Database
+                            Design,Programming, and many others.
+                            <br />
+                            <br />
+                            However, one thing that I always stick to in everything is, <b>I always do every job according to my passion</b>, and that is what makes me happy and also gives myself the
+                            opportunity to give my best. work I can do. I have experience as a full stack intern for 6 months, freelance for 6 months, and 1 year as a backend.
+                        </p>
                         <a href="http://linkedin.com/in/raflymln" target={"_blank"} rel="noreferrer" data-aos="fadeIn" data-aos-anchor-placement="center-bottom">
                             <button className="btn bg-theme-green-dark text-white mt-4" data-aos="fadeIn" data-aos-anchor-placement="center-bottom">
                                 <span className="bg-theme-green-light">Great, Now Tell Me More!</span>
@@ -314,7 +314,6 @@ export default function Home() {
                         </a>
                     </div>
                 </div>
-
                 <HalfTree1 />
                 <HalfTree2 />
             </section>
