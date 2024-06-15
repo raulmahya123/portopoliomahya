@@ -17,7 +17,8 @@ const Projects = () => {
             image: "/images/projects/fancypedia.png",
             title: "E-Katalog Fancypedia",
             description:
-"Fancypedia is the ultimate destination for the latest fashion trends. This application features an advanced CMS for creating new products and an interactive dashboard for easily monitoring user analytics and sales graphs." },
+                "Fancypedia is the ultimate destination for the latest fashion trends. This application features an advanced CMS for creating new products and an interactive dashboard for easily monitoring user analytics and sales graphs.",
+        },
         {
             href: "https://www.roblox.com/users/3487305961/profile#!/creations",
             type: "Blockchain & Metaverse Using Oculus & 3D",
@@ -25,7 +26,7 @@ const Projects = () => {
             technology: "Lua, , Google Cloud Functions",
             title: "Campus Ulbi with Oculus and Metaverse",
             description:
-            "This project started as a fun endeavor with integrated professors using Roblox, and it has evolved into a full-fledged initiative. As the training instructor, I oversee its integration with Oculus and the metaverse, reaching a burning success."
+                "This project started as a fun endeavor with integrated professors using Roblox, and it has evolved into a full-fledged initiative. As the training instructor, I oversee its integration with Oculus and the metaverse, reaching a burning success.",
         },
         {
             href: "https://www.behance.net/gallery/131966587/IndieSpices",
