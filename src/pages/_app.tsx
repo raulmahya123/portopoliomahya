@@ -17,11 +17,11 @@ import MetaTags from "@/components/MetaTags";
 const metaData = {
     title: "Raul Mahya Komaran - Fullstack Developer/Backend Developer/Data Engineer",
     description: "Hello! I’m Raul Mahya, a fullstack developer, designer, and producer, from Indonesia.",
-    url: "https://raflymaulana.me",
+    url: "https://portopoliomahyaa.netlify.app",
     image: "https://raflymaulana.me/images/banner.png",
     themeColor: "#ffffff",
-    keywords: "rafly, maulana, ui, ux, programmer, developer, backend, frontend, designer, indonesia, website, producer, fullstack, freelance, freelancer",
-    author: "Rafly Maulana",
+    keywords: "Raul , Mahya, ui, ux, programmer, developer, backend, frontend, designer, indonesia, website, producer, fullstack, freelance, freelancer",
+    author: "Raul Mahya",
     charSet: "utf-8",
     language: "English",
     icons: [

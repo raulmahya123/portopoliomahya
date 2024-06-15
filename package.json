@@ -1,16 +1,16 @@
 {
-    "name": "raflymaulana",
+    "name": "Raul Mahya",
     "version": "1.2.1",
-    "description": "Personal Portofolio Website of Rafly Maulana",
+    "description": "Personal Portofolio Website of Raul Mahya",
     "main": "index.js",
-    "repository": "https://github.com/raflymln/raflymaulana.git",
-    "bugs": "https://github.com/raflymln/raflymaulana",
+    "repository": "https://github.com/raulmahya123",
+    "bugs": "https://github.com/raulmahya123",
     "author": {
-        "name": "Rafly Maulana",
-        "email": "mraflymaulana@gmail.com",
-        "url": "https://raflymaulana.me"
+        "name": "Raul Mahya",
+        "email": "raulmahya11@gmail.com",
+        "url": "https://portopoliomahyaa.netlify.app"
     },
-    "homepage": "https://raflymaulana.me",
+    "homepage": "https://portopoliomahyaa.netlify.app",
     "license": "GNU GPLv3",
     "private": true,
         "scripts": {

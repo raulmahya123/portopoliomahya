@@ -29,45 +29,45 @@ const Projects = () => {
                 "This project started as a fun endeavor with integrated professors using Roblox, and it has evolved into a full-fledged initiative. As the training instructor, I oversee its integration with Oculus and the metaverse, reaching a burning success.",
         },
         {
-            href: "https://www.behance.net/gallery/131966587/IndieSpices",
-            type: "UI/UX & Frontend Development",
-            image: "/images/projects/IndieSpices.webp",
-            title: "IndieSpices",
+            href: "https://museumgeologibandung.netlify.app/auth/sign-in",
+            type: "FullStack Development",
+            image: "/images/projects/museumgeologi.png",
+            title: "Museum Geologi Bandung",
             description: "Top Leading Supply of Spices in Indonesia",
         },
         {
-            href: "https://www.behance.net/gallery/127122741/Project-V2-Portfolio-Website-Design",
-            type: "Fullstack Development",
+            href: "https://mydigilearn.id",
+            type: "Backend Development & R&D",
             image: "/images/projects/RaflyMaulanaV2.webp",
-            title: "Rafly Maulana V2",
+            title: "Mydigilearn",
             description: "2nd version of my portofolio site",
         },
         {
-            href: "https://www.behance.net/gallery/127108847/Project-V1-Portfolio-Web-Design",
-            type: "Frontend Development",
+            href: "https://pkg.go.dev/github.com/Fancypedia/fancybackenddd",
+            type: "Backend Enginer",
             image: "/images/projects/RaflyMaulanaV1.webp",
-            title: "Rafly Maulana V1",
+            title: "Create Modul Fancybackend For Microservice Integrate With GCP and Mongodb",
             description: "1st version of my portofolio site",
         },
         {
-            href: "https://www.behance.net/gallery/127174313/Project-Foxxy-E-Commerce",
-            type: "Fullstack Development",
+            href: "https://git.digitalamoeba.id/users/sign_in",
+            type: "Ai Enginer",
             image: "/images/projects/FoxxyECommerce.webp",
-            title: "Foxxy E-Commerce",
+            title: "DigiAI For CMS",
             description: "A marketplace for every digital items",
         },
         {
-            href: "https://www.behance.net/gallery/127128767/Project-Foxxy-Game-Hosting",
-            type: "UI/UX",
+            href: "https://kidneys8.wordpress.com",
+            type: "CEO",
             image: "/images/projects/FoxxyGameHosting.webp",
-            title: "Foxxy Game Hosting",
+            title: "Kodeys",
             description: "A hosting service, dedicated to games",
         },
         {
-            href: "https://drive.google.com/drive/folders/1UDQa3XFEwL2TBOplVRnT67uG8UpIENHV?usp=sharing",
-            type: "Fullstack Development",
+            href: "https://github.com/raulmahya123/pasmentsanboxandnotif",
+            type: "Backend Enginer",
             image: "/images/projects/YKBJABAR.webp",
-            title: "Yayasan Kemala Bhayangkari Jawa Barat",
+            title: "Payment Xendit with postgree and Succes payment notif with google",
             description: "Yayasan Kemala Bhayangkari Polda Jabar",
         },
     ];
@@ -312,7 +312,7 @@ export default function Home() {
                             However, one thing that I always stick to in everything is, <b>I always do every job according to my passion</b>, and that is what makes me happy and also gives myself the
                             opportunity to give my best. work I can do. I have experience as a full stack intern for 6 months, freelance for 6 months, and 1 year as a backend.
                         </p>
-                        <a href="http://linkedin.com/in/raflymln" target={"_blank"} rel="noreferrer" data-aos="fadeIn" data-aos-anchor-placement="center-bottom">
+                        <a href="https://www.linkedin.com/in/raulmahya/" target={"_blank"} rel="noreferrer" data-aos="fadeIn" data-aos-anchor-placement="center-bottom">
                             <button className="btn bg-theme-green-dark text-white mt-4" data-aos="fadeIn" data-aos-anchor-placement="center-bottom">
                                 <span className="bg-theme-green-light">Great, Now Tell Me More!</span>
                             </button>
