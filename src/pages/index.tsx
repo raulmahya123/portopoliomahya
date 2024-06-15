@@ -22,7 +22,7 @@ const Projects = () => {
             href: "https://www.roblox.com/users/3487305961/profile#!/creations",
             type: "Blockchain & Metaverse Using Oculus & 3D",
             image: "/images/projects/blockchain.png",
-            technology: "Lua, Tailwind, Google Cloud Functions",
+            technology: "Lua, , Google Cloud Functions",
             title: "Campus Ulbi with Oculus and Metaverse",
             description:
             "This project started as a fun endeavor with integrated professors using Roblox, and it has evolved into a full-fledged initiative. As the training instructor, I oversee its integration with Oculus and the metaverse, reaching a burning success."
