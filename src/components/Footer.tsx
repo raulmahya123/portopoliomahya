@@ -78,7 +78,7 @@ export default function Footer() {
                     <div className="font-comfortaa text-sm leading-6 text-center max-w-md space-y-4 text-black">
                         <p className="font-bold">
                             Copyright © 2021 - {new Date().getFullYear()}{" "}
-                            <a href="https://raflymaulana.me" rel={"noreferrer"}>
+                            <a href="https://portopoliomahyaa.netlify.app" rel={"noreferrer"}>
                                 Raul Mahya
                             </a>
                             .
