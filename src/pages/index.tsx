@@ -153,7 +153,7 @@ const Contents = () => {
         {
             title: "My Agency (Runes)",
             description: "Take a look at my own creative studio/agency",
-            href: "https://runes.asia",
+            href: "https://www.linkedin.com/in/raulmahya/",
             icon: () => (
                 <svg className="h-full max-h-16 w-auto" viewBox="0 0 66 62" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path
