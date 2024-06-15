@@ -11,18 +11,21 @@ import AboutMeIllustration from "@/components/illustrations/AboutMe";
 const Projects = () => {
     const ProjectList = [
         {
-            href: "https://www.behance.net/gallery/132210415/Briton-English-Placement-Test",
-            type: "UI/UX & Fullstack Development",
-            image: "/images/projects/BRITONPlacementTest.webp",
-            title: "Briton English Placement Test",
-            description: "Placement test website for Briton English Education",
-        },
+            href: "https://fancypedia.my.id",
+            type: "Backend Development & Devops",
+            technology: "Golang, Tailwind, Google Cloud Functions",
+            image: "/images/projects/fancypedia.png",
+            title: "E-Katalog Fancypedia",
+            description:
+"Fancypedia is the ultimate destination for the latest fashion trends. This application features an advanced CMS for creating new products and an interactive dashboard for easily monitoring user analytics and sales graphs." },
         {
-            href: "https://www.behance.net/gallery/131988309/Duta-Bahasa-Inggris-2021-2022",
-            type: "UI/UX & Fullstack Development",
-            image: "/images/projects/DBI2122.webp",
-            title: "Duta Bahasa Inggris 2021-2022",
-            description: "English Competition for SMA/SMK and equivalent in Indonesia",
+            href: "https://www.roblox.com/users/3487305961/profile#!/creations",
+            type: "Blockchain & Metaverse Using Oculus & 3D",
+            image: "/images/projects/blockchain.png",
+            technology: "Lua, Tailwind, Google Cloud Functions",
+            title: "Campus Ulbi with Oculus and Metaverse",
+            description:
+            "This project started as a fun endeavor with integrated professors using Roblox, and it has evolved into a full-fledged initiative. As the training instructor, I oversee its integration with Oculus and the metaverse, reaching a burning success."
         },
         {
             href: "https://www.behance.net/gallery/131966587/IndieSpices",
@@ -94,6 +97,7 @@ const Projects = () => {
                         <div className="space-y-1 text-white">
                             <h1 className="font-baloo text-4xl">{data.title}</h1>
                             <p className="font-comforta text-sm tracking-wider">{data.description}</p>
+                            <p className="rounded-3.5 text-xs font-somatic px-5 py-2 bg-black bg-opacity-50 text-white tracking-widest">{data.technology}</p>
                         </div>
                     </section>
                 </a>
